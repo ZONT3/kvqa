@@ -1,0 +1,7 @@
+[submodule "scene_graph_benchmark"]
+	path = scene_graph_benchmark
+	url = https://github.com/microsoft/scene_graph_benchmark.git
+[submodule "transformers"]
+	path = transformers
+	url = https://github.com/huggingface/transformers
+	branch = v4.26-release
